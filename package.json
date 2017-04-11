@@ -1,0 +1,17 @@
+{
+  "name": "example-node-app",
+  "version": "1.0.0",
+  "description": "A simple Node.js app used for a Practical Introduction to Node.js tech talk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "author": "Spencer Brown <me@spencer.sx>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.2",
+    "hbs": "^4.0.1",
+    "request": "^2.81.0"
+  }
+}
